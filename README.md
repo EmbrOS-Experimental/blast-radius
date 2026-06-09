@@ -108,3 +108,7 @@ BlastRadius is part of the [EmbrOS](https://embros.xyz) toolkit for AI developer
 [🌐 embros.xyz](https://embros.xyz)
 
 </div>
+
+---
+
+🐦 Follow on X: [@probert_mihai](https://x.com/probert_mihai)
